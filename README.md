@@ -6,5 +6,7 @@ Tic Tac Toe Game: A 3x3 grid is used for the traditional paper and pencil game o
 Objective: Being the first player to line up three Xs or Os, either horizontally, vertically, or diagonally, is the aim of the game of tic tac toe. The game is deemed a tie if all the squares are filled but no player has made three consecutive wins.
 
 Reference:
+
 YouTube Link - https://www.youtube.com/watch?v=B3pmT7Cpi24
+
 GitHub Link - https://github.com/javascriptacademy-stash/tic-tac-toe
